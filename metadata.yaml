@@ -1,0 +1,32 @@
+_repo: Big-Dummy-s-Guide-to-the-Internet_118
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Kapor, Mitchell
+    gutenberg_agent_id: '41737'
+    url: http://www.gutenberg.org/2009/agents/41737
+  - agent_name: Gaffin, Adam
+    gutenberg_agent_id: '38252'
+    url: http://www.gutenberg.org/2009/agents/38252
+creator:
+  author:
+    agent_name: Electronic Frontier Foundation
+    alias: EFF
+    gutenberg_agent_id: '76'
+    url: http://www.gutenberg.org/2009/agents/76
+description: ''
+gutenberg_issued: '1994-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '118'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Internet'
+- !lcc 'TK'
+- !lcsh 'Computer networks'
+- GITenberg
+title: Big Dummy's Guide to the Internet
+url: http://www.gutenberg.org/ebooks/118
